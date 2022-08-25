@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.changedHeadline {
+    color: red;
+    font-size: 3rem;
+    text-decoration: dashed;
+}
